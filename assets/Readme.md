@@ -1,3 +1,3 @@
 
 # Favicon
-Copyright 2026 Jens Hönscheid
+(c) 2026 Jens Hönscheid
